@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Document/Git/cmake_template/build/cmake_install.cmake",
+		"D:/Document/Git/cmake_template/build/src/cmake_install.cmake",
+		"D:/Document/Git/cmake_template/build/src/add/cmake_install.cmake",
+		"D:/Document/Git/cmake_template/build/src/sub/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

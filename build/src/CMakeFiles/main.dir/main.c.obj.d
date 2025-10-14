@@ -1,0 +1,16 @@
+src/CMakeFiles/main.dir/main.c.obj: \
+ D:\Document\Git\cmake_template\src\main.c \
+ D:/Software/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ D:/Software/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ D:/Software/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ D:/Software/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/Software/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/Software/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/Software/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/Software/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/Software/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ D:/Software/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ D:/Software/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ D:/Document/Git/cmake_template/src/add/add.h \
+ D:/Document/Git/cmake_template/src/common.h \
+ D:/Document/Git/cmake_template/src/sub/sub.h

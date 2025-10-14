@@ -1,0 +1,2 @@
+D:\Software\mingw64\bin\ar.exe qc libsub.a CMakeFiles/sub.dir/sub.c.obj
+D:\Software\mingw64\bin\ranlib.exe libsub.a

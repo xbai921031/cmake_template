@@ -1,0 +1,25 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/Document/Git/cmake_template/src/add/add.c" "CMakeFiles/cmake_template.dir/src/add/add.c.obj" "gcc" "CMakeFiles/cmake_template.dir/src/add/add.c.obj.d"
+  "D:/Document/Git/cmake_template/src/main.c" "CMakeFiles/cmake_template.dir/src/main.c.obj" "gcc" "CMakeFiles/cmake_template.dir/src/main.c.obj.d"
+  "D:/Document/Git/cmake_template/src/sub/sub.c" "CMakeFiles/cmake_template.dir/src/sub/sub.c.obj" "gcc" "CMakeFiles/cmake_template.dir/src/sub/sub.c.obj.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
