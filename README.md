@@ -33,7 +33,7 @@ cmake_template/
 cd build
 cmake -G "MinGW Makefiles" -DCMAKE_C_COMPILER=D:/Software/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/Software/mingw64/bin/g++.exe -DCMAKE_MAKE_PROGRAM=D:/Software/mingw64/bin/mingw32-make.exe ..
 ```
-## 🛠️ Build
+## 🏗️ Build
 ```bash
 cd ..
 cmake --build build
