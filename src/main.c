@@ -17,10 +17,10 @@ int main(void)
     uint8 input2 = 5;
 
     output = u8AddFun(input1, input2);
-    printf("The result of addition is: %d", &output);
+    printf("The result of addition is: %d\n", output);
 
     output = u8SubFun(input1, input2);
-    printf("The result of subtraction is: %d", &output);
+    printf("The result of subtraction is: %d", output);
 
     return 0;
 }

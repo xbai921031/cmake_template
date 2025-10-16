@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/Document/Git/cmake_template/build",
+  "command": "D:\\Software\\mingw64\\bin\\gcc.exe  @CMakeFiles/cmake_template.dir/includes_C.rsp  -Wall -Wextra -Wpedantic -g -g -O0 -DDEBUG -std=gnu11 -o CMakeFiles\\cmake_template.dir\\src\\add\\add.c.obj -c D:\\Document\\Git\\cmake_template\\src\\add\\add.c",
+  "file": "D:/Document/Git/cmake_template/src/add/add.c",
+  "output": "CMakeFiles/cmake_template.dir/src/add/add.c.obj"
+},
+{
+  "directory": "D:/Document/Git/cmake_template/build",
+  "command": "D:\\Software\\mingw64\\bin\\gcc.exe  @CMakeFiles/cmake_template.dir/includes_C.rsp  -Wall -Wextra -Wpedantic -g -g -O0 -DDEBUG -std=gnu11 -o CMakeFiles\\cmake_template.dir\\src\\main.c.obj -c D:\\Document\\Git\\cmake_template\\src\\main.c",
+  "file": "D:/Document/Git/cmake_template/src/main.c",
+  "output": "CMakeFiles/cmake_template.dir/src/main.c.obj"
+},
+{
+  "directory": "D:/Document/Git/cmake_template/build",
+  "command": "D:\\Software\\mingw64\\bin\\gcc.exe  @CMakeFiles/cmake_template.dir/includes_C.rsp  -Wall -Wextra -Wpedantic -g -g -O0 -DDEBUG -std=gnu11 -o CMakeFiles\\cmake_template.dir\\src\\sub\\sub.c.obj -c D:\\Document\\Git\\cmake_template\\src\\sub\\sub.c",
+  "file": "D:/Document/Git/cmake_template/src/sub/sub.c",
+  "output": "CMakeFiles/cmake_template.dir/src/sub/sub.c.obj"
+},
+{
+  "directory": "D:/Document/Git/cmake_template/build/src",
+  "command": "D:\\Software\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\main.c.obj -c D:\\Document\\Git\\cmake_template\\src\\main.c",
+  "file": "D:/Document/Git/cmake_template/src/main.c",
+  "output": "src/CMakeFiles/main.dir/main.c.obj"
+},
+{
+  "directory": "D:/Document/Git/cmake_template/build/src/add",
+  "command": "D:\\Software\\mingw64\\bin\\gcc.exe  @CMakeFiles/add.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\add.dir\\add.c.obj -c D:\\Document\\Git\\cmake_template\\src\\add\\add.c",
+  "file": "D:/Document/Git/cmake_template/src/add/add.c",
+  "output": "src/add/CMakeFiles/add.dir/add.c.obj"
+},
+{
+  "directory": "D:/Document/Git/cmake_template/build/src/sub",
+  "command": "D:\\Software\\mingw64\\bin\\gcc.exe  @CMakeFiles/sub.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\sub.dir\\sub.c.obj -c D:\\Document\\Git\\cmake_template\\src\\sub\\sub.c",
+  "file": "D:/Document/Git/cmake_template/src/sub/sub.c",
+  "output": "src/sub/CMakeFiles/sub.dir/sub.c.obj"
+}
+]

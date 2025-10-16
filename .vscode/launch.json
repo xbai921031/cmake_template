@@ -5,7 +5,7 @@
             "name": "C Debug with CMake",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build",
+            "program": "${workspaceFolder}/build/cmake_template.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

@@ -6,5 +6,5 @@ C_DEFINES =
 
 C_INCLUDES = @CMakeFiles/cmake_template.dir/includes_C.rsp
 
-C_FLAGS =  -Wall -Wextra -Wpedantic -g -std=gnu11
+C_FLAGS =  -Wall -Wextra -Wpedantic -g -g -O0 -DDEBUG -std=gnu11
 
