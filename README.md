@@ -39,5 +39,4 @@ cd ..
 cmake --build build
 ```
 ## 🐞 Debug
-Hotkey: 'F5'
-
+##### Hotkey: 'F5'
